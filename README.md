@@ -1,4 +1,4 @@
-# Bibliotheca — College Library Management System
+# Campuslib — College Library Management System
 
 Full-stack web app · React + Tailwind · Node.js + Express · PostgreSQL
 
